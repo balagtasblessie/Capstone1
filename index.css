@@ -1,0 +1,39 @@
+body {
+	font-family: 'Gabarito', cursive;
+}
+#nbar {
+	background-color: #191717;
+	font-size: 20px;
+}
+#landing {
+	
+}
+#pic {
+	border-radius: 	200px;
+}
+#projects {
+	background-color: #7D7C7C;
+}
+.btn {
+	background-color: #272829;
+}
+#contain {
+	background-color: #D8D9DA;
+}
+
+#contact {
+	background-color: #191717;
+}
+.textNone{
+	text-decoration: none;
+}
+#desc {
+	color: #7D7C7C;
+	border: 2px solid dark;
+}
+#border {
+	border-radius: 30px;
+}
+#btn {
+	color: white;
+}
